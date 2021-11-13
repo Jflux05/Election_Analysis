@@ -32,5 +32,20 @@ The results of our election audit for the Colorado Board of Elections reveal tha
   - Diana DeGette received **73.8%** of the total, with **272,892 votes**.
   - Raymon Anthony Doane received 3.1% of the total, with 11,606 votes.
 
-- **The winner of the election was:
-Diana DeGette, who received 73.8% of the total votes, with 272,892 votes cast in her favor.**
+- **The winner of the election was:**
+  - Diana DeGette, who received 73.8% of the total votes, with 272,892 votes cast in her favor.
+
+## County Results
+- Jefferson County had a total of 38,885 votes cast, which accounted for 10.5% of the all votes.
+- Denver County had a total of 306,055 votes cast, which accounted for 82.8% of the all votes. 
+- Arapahoe County had a total of 24,801 votes cast, which accounted for 6.7% of the all votes. 
+
+**Denver County had the largest voter turnout by almost 8x more than Jefferson County and almost 12x more than Arapahoe County.**
+
+*see the results below:*
+
+![election_results_terminal_Screenshot](https://github.com/Jflux05/Election_Analysis/blob/7304598d4763bec3c824ef5e8db81b120a4c78aa/Resources/election%20result%20screenshot%20terminal.png)
+![election_results .txtfile screenshot](https://github.com/Jflux05/Election_Analysis/blob/7304598d4763bec3c824ef5e8db81b120a4c78aa/Resources/election_analysis.txtscreenshot.png)
+
+
+
