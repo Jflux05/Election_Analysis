@@ -8,6 +8,9 @@ The Colorado Board of Elections has tasked us with performing an audit of a rece
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
+6. The voter turnout in each coounty
+7. Calculate the percentage of votes for each county of the total votes. 
+8. Determine the county with the highest voter turnout. 
 
 ## Resources
 - Data Source: election_results.cvs
