@@ -49,8 +49,9 @@ The results of our election audit for the Colorado Board of Elections reveal tha
 
 ## Election Audit Summary
 The election audit was able to answer all of the election commission's questions that were laid out at the begining of the project. The commission now has the basis for a code that could be utilized to handle future elections. In its current state, the code is limited to this specific local election, however with a few tweaks to the script, it could process an output for any type of voter related data thats available (ie. average voter age or voter sex). While that may seem dynamic, we could make the code even more dynamic by utilizing the input() function in two ways:
-      - In line 9 prompting the user to input a file name they plan to use (so the code can be applied to any file and not just the election_results.csv file).
-      - In lines 49 and 52 prompting the user to input the column number where the desired metric is (as it can vary between files).
+
+   - In line 9 prompting the user to input a file name they plan to use (so the code can be applied to any file and not just the election_results.csv file).
+   - In lines 49 and 52 prompting the user to input the column number where the desired metric is (as it can vary between files).
       
 By making these small tweaks to the code, it could be utilized by the commission for future elections and if they choose to start collecting additional data points, it could easily process results that would give the commision further insights into the state's voters. 
 
