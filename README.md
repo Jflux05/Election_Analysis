@@ -15,7 +15,7 @@ The Colorado Board of Elections has tasked us with performing an audit of a rece
 ## Resources
 - Data Source: election_results.cvs
 - Software: Python 3.10.0 , Visual Studio Code, 1.62.0
-- Python Files: PyPoll_Challenge_starter_code.py
+- Python Files: PyPoll_Challenge.py
 
 ## Election Audit Results
 The results of our election audit for the Colorado Board of Elections reveal that:
